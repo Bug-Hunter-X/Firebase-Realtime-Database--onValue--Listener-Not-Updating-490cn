@@ -1,0 +1,1 @@
+In a Firebase project, I encountered an issue where data wasn't updating in real-time using the `onValue` listener even though changes were made in the database. The listener seemed to be stuck on the initial data snapshot, ignoring subsequent changes.
